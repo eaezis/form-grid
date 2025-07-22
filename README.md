@@ -19,4 +19,4 @@ Este projeto foi desenvolvido acompanhando aulas práticas para aprofundar o con
 ---
 
 📸 *Preview do Projeto*
-(./screenshot.png)
+![Preview do Projeto](./screenshot.png)
